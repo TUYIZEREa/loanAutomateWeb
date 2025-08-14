@@ -61,7 +61,7 @@ A comprehensive microfinance management system built with PHP and MySQL, designe
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/easy-savings-system.git
+   git clone https://github.com/TUYIZEREa/loanAutomateWeb.git
    ```
 
 2. Create a MySQL database and import the schema:
