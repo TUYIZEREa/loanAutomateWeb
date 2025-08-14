@@ -56,6 +56,11 @@ A comprehensive microfinance management system built with PHP and MySQL, designe
   - mbstring
   - json
   - session
+  ## TESTING USERS
+  user:Ismael role(Admin)
+  password:123
+  user:aime role(customer)
+  password:123
 
 ## Installation
 
